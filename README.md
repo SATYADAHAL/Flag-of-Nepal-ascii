@@ -7,6 +7,7 @@
 > Terminator<br>
 > Konsole<br>
 > Gnome-Terminal<br>
+> kitty<br>
 
 #### Screenshot
 ![](https://github.com/SATYADAHAL/Nepal-s-Flag/blob/main/Screen_Shot_Gif.gif)
