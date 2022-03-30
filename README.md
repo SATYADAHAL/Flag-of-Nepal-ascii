@@ -12,5 +12,4 @@
 #### Screenshot
 
 
-https://user-images.githubusercontent.com/51309409/160862683-72fdafb6-01eb-4b7c-9953-f59acd85027b.mp4
-
+![alt ](https://github.com/SATYADAHAL/Nepal-s-Flag/blob/main/flag.gif)
